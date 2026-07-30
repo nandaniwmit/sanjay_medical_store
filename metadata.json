@@ -1,0 +1,6 @@
+{
+  "name": "Sanjay Medical Store",
+  "description": "Your Trusted Medical Store for Genuine Medicines & Healthcare Needs in Gewalbigha, Gaya, Bihar",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
