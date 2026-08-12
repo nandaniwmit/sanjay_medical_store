@@ -245,16 +245,8 @@ export default function Footer() {
           <div className="flex items-center space-x-1.5 bg-slate-900 px-3 py-1.5 rounded-full border border-slate-800 text-slate-300">
             <span>Developed with</span>
             <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500 inline" />
-            <span>by</span>
-            <a
-              href="https://main.webmakerit.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="font-bold text-emerald-400 hover:underline inline-flex items-center"
-            >
-              WMIT
-              <ExternalLink className="w-3 h-3 ml-0.5" />
-            </a>
+            <span></span>
+            <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
           </div>
         </div>
       </div>
